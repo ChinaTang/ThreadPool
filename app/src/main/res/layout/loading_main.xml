@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/bn1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="显示Loading"/>
+    <Button
+        android:id="@+id/bn02"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="隐藏Loading"/>
+    <Button
+        android:id="@+id/bn03"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="自定义loading"/>
+    <Button
+        android:id="@+id/bn04"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="列表显示"/>
+
+</LinearLayout>
